@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý AI Giáo Viên KHTN THCS",
+  "description": "Web App trợ lý chuyên sâu cho giáo viên Khoa học tự nhiên THCS: Xây dựng PPCT, Soạn giáo án 5512, Tạo phiếu học tập, Đề cương ôn tập, Hệ thống kiểm tra 7991 có Ma trận, Đặc tả, Đề, Đáp án, Hướng dẫn chấm, Validator 10 bước và Xuất file Word/PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
